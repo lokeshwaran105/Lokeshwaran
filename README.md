@@ -53,7 +53,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 <p align="left">
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>     
+	<a href="https://leetcode.com/u/lokesh2905/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>     
 	<a href="https://www.naukri.com/code360/profile/ffd4804f-9ed5-457f-bf62-ed9289c56e4c" ><img src="https://i.postimg.cc/44t8nQQj/code.jpg" alt="Code360" width="50" height="50">
 </p>
 
