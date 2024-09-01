@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokeshwaran G</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lokeshwaran G</h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1F0000&width=435&lines=A+passionate+Full-Stack+Web+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </p>
